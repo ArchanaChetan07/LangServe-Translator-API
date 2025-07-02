@@ -12,5 +12,4 @@ This is a FastAPI-based translation microservice using LangChain and Groq's LLM 
 - 🔁 RESTful endpoint at `/chain`
 - 🔐 Environment variable support via `.env`
 
----
 
